@@ -1,0 +1,26 @@
+{
+  "name": "qpass",
+  "version": "1.0.0",
+  "description": "past question mock practice app for students",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olasegirioluwa3/examwise.git"
+  },
+  "keywords": [
+    "exam",
+    "mock",
+    "practice",
+    "challenge",
+    "app"
+  ],
+  "author": "Oluwafemi Olasegiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olasegirioluwa3/examwise/issues"
+  },
+  "homepage": "https://github.com/olasegirioluwa3/examwise#readme"
+}
